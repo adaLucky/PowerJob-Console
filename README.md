@@ -4,6 +4,7 @@
 项目文档：https://www.yuque.com/powerjob/guidence
 
 # 命令
+node版本 V14.20.0 
 npm run serve（使用 .env.dev ，请求 localhost:7700）
 
 npm run build（使用 .env.product）

@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --mode dev",
+    "product": "vue-cli-service serve --mode product",
     "build": "vue-cli-service build --mode product",
     "lint": "vue-cli-service lint",
     "build_spring": "vue-cli-service build --mode spring"
